@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ah5v7lLZ/w=",
+  "success": true,
+  "projectFilePath": "/home/lordshiva/Projects/shivaLearnings/FileStorage/FileStorage.csproj",
+  "expectedPackageFiles": [
+    "/home/lordshiva/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/home/lordshiva/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
